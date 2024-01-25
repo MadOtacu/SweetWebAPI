@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SweetWebAPI", "SweetWebAPI\SweetWebAPI.csproj", "{64305A53-3557-40A8-9FE7-614E174F66EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64305A53-3557-40A8-9FE7-614E174F66EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64305A53-3557-40A8-9FE7-614E174F66EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64305A53-3557-40A8-9FE7-614E174F66EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64305A53-3557-40A8-9FE7-614E174F66EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2428D4A-9DFB-49AE-82C1-74624C1CE593}
+	EndGlobalSection
+EndGlobal
